@@ -17,5 +17,9 @@ public class Aritmetica {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+
+    public double multiply(double a, double b) {
+        return a * b;
+    }
+
 }
