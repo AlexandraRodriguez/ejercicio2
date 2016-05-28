@@ -11,11 +11,12 @@ package aritmetica;
  */
 public class Aritmetica {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
     
+    public double division(int divisor,int  dividendo){
+        return dividendo/divisor; 
+    }
 }
