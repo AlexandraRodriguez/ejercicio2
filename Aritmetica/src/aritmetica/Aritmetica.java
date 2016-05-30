@@ -11,15 +11,19 @@ package aritmetica;
  */
 public class Aritmetica {
 
-    
-    public double division(int divisor,int  dividendo){
-        return dividendo/divisor; 
+    public double division(int divisor, int dividendo) {
+        return dividendo / divisor;
     }
+
     public double sum(double a, double b) {
         return a + b;
     }
 
     public double multiply(double a, double b) {
         return a * b;
+    }
+
+    public double less(double a, double b) {
+        return a - b;
     }
 }
