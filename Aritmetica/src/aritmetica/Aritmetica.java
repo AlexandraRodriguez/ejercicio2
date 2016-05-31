@@ -23,7 +23,7 @@ public class Aritmetica {
         return a * b;
     }
 
-    public double less(double a, double b) {
-        return a - b;
+    public double less(double x, double y) {
+        return x - y;
     }
 }
